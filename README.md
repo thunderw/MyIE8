@@ -9,3 +9,7 @@
 很简单：点击 `MyIE8.exe`，在地址栏输入网址并按回车即可。
 默认似乎是 IE7 的模式。如果要模拟IE8，可以双击 MyIE8.reg 导入注册表。其他版本的设置参见 MSDN：
 http://msdn.microsoft.com/en-us/library/ee330730%28v=vs.85%29.aspx#browser_emulation
+
+## 直接打开 IE
+将下列代码保存为 `IE.vbs` 直接双击即可打开 IE。  
+`CreateObject("InternetExplorer.Application").Visible=true`
