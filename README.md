@@ -1,5 +1,6 @@
 # MyIE8
-简易版 IE for Windows 11
+简易版 IE for Windows 11  
+![运行效果](https://github.com/thunderw/MyIE8/blob/main/screenshots/MyIE8-V1.0.jpg)
 
 ## 缘起
 我家内人的工作需要访问一个古董网站，该网站只支持 IE8。我写了个打开 IE 兼容模式的说明( https://zhuanlan.zhihu.com/p/384320451 )，但是仍然不够简单。
